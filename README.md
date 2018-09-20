@@ -15,6 +15,8 @@ APIs
 * [MOAC PHP Chain3 API](https://github.com/dacelee/Moac-Php-Api) - PHP Chain3 API
 
 * [MOAC Golang Chain3 API](https://github.com/dacelee/moac-golang-chain3-api) - Golang Chain3 API
+* [MOAC_Dart_Chain3_API](https://pub.dartlang.org/packages/moac) - Dart Chain3 API
+
 
 DApps
 -----
