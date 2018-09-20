@@ -1,7 +1,7 @@
 # awesome-MOAC
 A curated list of awesome MOAC blockchain Ressources
 
-![](https://www.moac.io/public/images/moac_lev6_01@2x.png)
+![](https://github.com/Yeluaboji/awesome-MOAC/blob/master/MOAC%20Architecture.PNG)
 
 
 * [MOAC network status](https://github.com/dacelee/moac-netstats)
