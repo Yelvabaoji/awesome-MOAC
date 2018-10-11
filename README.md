@@ -13,6 +13,8 @@ Tools
 * [MOAC network status](https://github.com/dacelee/moac-netstats) - This tool display MOAC network status
 * [MOAC mask](https://addons.mozilla.org/zh-CN/firefox/addon/moacmask/) - MoacMask is an extension for accessing Moac enabled distributed applications, or "Dapps" in your normal Chrome browser!
 
+* [MOAC Fauce](http://119.28.13.213:3000/) - developer can get moac coin for MOAC testnet.
+
 
 APIs
 ----
