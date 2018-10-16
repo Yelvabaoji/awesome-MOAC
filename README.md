@@ -11,12 +11,18 @@ Docs
 Tools
 -----
 * [MOAC network status](https://github.com/dacelee/moac-netstats) - This tool display MOAC network status
-* [MOAC mask for firefox](https://addons.mozilla.org/zh-CN/firefox/addon/moacmask/) - MoacMask is an extension for accessing Moac enabled distributed applications, or "Dapps" in your normal Firefox browser!
-* [MOAC mask for chrome](https://github.com/dacelee/MOACMask/blob/master/GoogleChrome.md) - MoacMask is an extension for accessing Moac enabled distributed applications, or "Dapps" in your normal Chrome browser!
-* [MOAC mask for 360](https://github.com/dacelee/MOACMask/blob/master/360SE.md) - MoacMask is an extension for accessing Moac enabled distributed applications, or "Dapps" in your normal 360 browser!(360浏览器)
-* [MOAC mask for 360](https://github.com/dacelee/MOACMask/blob/master/360Chromium.md) - MoacMask is an extension for accessing Moac enabled distributed applications, or "Dapps" in your normal 360 Chromium browser! (360急速游览器)
+
+* [MOACMask Browser Extension for MOAC](https://github.com/dacelee/MOACMask) - MoacMask is an extension for accessing Moac enabled distributed applications, or "Dapps" in your normal browser!. Here is the source code on github. 
+    * [MOAC mask for firefox](https://addons.mozilla.org/zh-CN/firefox/addon/moacmask/) - for Firefox browser!
+    * [MOAC mask for chrome](https://github.com/dacelee/MOACMask/blob/master/GoogleChrome.md) - for Chrome browser!
+    * [MOAC mask for 360](https://github.com/dacelee/MOACMask/blob/master/360SE.md) - for 360 browser!(360浏览器)
+    * [MOAC mask for 360](https://github.com/dacelee/MOACMask/blob/master/360Chromium.md) - for 360 Chromium browser! (360急速游览器)
 
 * [MOAC Fauce](http://119.28.13.213:3000/) - developer can get moac coin for MOAC testnet.
+
+* [Remix IDE](http://remix.tmaxpool.com) - Remix IDE
+* [Remix IDE source](https://github.com/dacelee/Moac-Remix-IDE-Live) - Moac-Remix-IDE-Live
+
 
 
 APIs
