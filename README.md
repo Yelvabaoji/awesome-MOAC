@@ -11,7 +11,10 @@ Docs
 Tools
 -----
 * [MOAC network status](https://github.com/dacelee/moac-netstats) - This tool display MOAC network status
-* [MOAC mask](https://addons.mozilla.org/zh-CN/firefox/addon/moacmask/) - MoacMask is an extension for accessing Moac enabled distributed applications, or "Dapps" in your normal Chrome browser!
+* [MOAC mask for firefox](https://addons.mozilla.org/zh-CN/firefox/addon/moacmask/) - MoacMask is an extension for accessing Moac enabled distributed applications, or "Dapps" in your normal Firefox browser!
+* [MOAC mask for chrome](https://github.com/dacelee/MOACMask/blob/master/GoogleChrome.md) - MoacMask is an extension for accessing Moac enabled distributed applications, or "Dapps" in your normal Chrome browser!
+* [MOAC mask for 360](https://github.com/dacelee/MOACMask/blob/master/360SE.md) - MoacMask is an extension for accessing Moac enabled distributed applications, or "Dapps" in your normal 360 browser!
+* [MOAC mask for 360](https://github.com/dacelee/MOACMask/blob/master/360Chromium.md) - MoacMask is an extension for accessing Moac enabled distributed applications, or "Dapps" in your normal 360 Chromium browser!
 
 * [MOAC Fauce](http://119.28.13.213:3000/) - developer can get moac coin for MOAC testnet.
 
