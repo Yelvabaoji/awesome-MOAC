@@ -21,7 +21,12 @@ Tools
 * [MOAC Fauce](http://119.28.13.213:3000/) - developer can get moac coin for MOAC testnet.
 
 * [Remix IDE](http://remix.tmaxpool.com) - Remix IDE
-* [Remix IDE source](https://github.com/dacelee/Moac-Remix-IDE-Live) - Moac-Remix-IDE-Live
+   * [Remix IDE source](https://github.com/dacelee/Moac-Remix-IDE-Live) - Moac-Remix-IDE-Live, source code on github
+
+* [MOAC truffle](https://github.com/dacelee/moactruffle) - Truffle is a development environment, testing framework and asset pipeline for MOAC, aiming to make life as an MOAC developer easier. 
+   * [MOAC truffle NMP installation](https://www.npmjs.com/package/moactruffle) - Truffle NMP installation package
+
+* [MOAC Tester](https://github.com/wanpixiaozi/moac-tester) - Tools for testing moac based applications.
 
 
 
