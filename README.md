@@ -28,6 +28,12 @@ Tools
 
 * [MOAC Tester](https://github.com/wanpixiaozi/moac-tester) - Tools for testing moac based applications.
 
+* [Moac_js-tx](https://github.com/wanpixiaozi/moacjs-tx) - Tools for sign transaction. This is equal to Ethereum TX tools
+
+* [Moac: A light wallet](https://github.com/wanpixiaozi/moacjs-wallet) A lightweight wallet implementation. At the moment it supports key creation and conversion between various formats.
+
+* [Moac: A simple set of Moac Util] (https://github.com/ethjs/ethjs-util) A simple set of Ethereum JS utilities such as toBuffer and isHexPrefixed.
+
 
 
 APIs
@@ -39,6 +45,8 @@ APIs
 
 * [MOAC Golang Chain3 API](https://github.com/dacelee/moac-golang-chain3-api) - Golang Chain3 API
 * [MOAC_Dart_Chain3_API](https://pub.dartlang.org/packages/moac) - Dart Chain3 API.
+
+   * [Moac_Dart_Chain3_API](https://github.com/agreyfox/moac-dart) - Github repositories.
 
 
 DApps
